@@ -1,9 +1,4 @@
-### Hi there 👋
-
-<!--
-**rvth/rvth** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+<img src="https://github.com/rvth/rvth/blob/main/Screenshot%202021-07-01%20at%2015.01.59.png" width="900">
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -13,4 +8,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
